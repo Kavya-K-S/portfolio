@@ -1,3 +1,3 @@
 Kavya
-This is a new line \n
+This is a new line 
 rajagiri college
